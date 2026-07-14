@@ -20,7 +20,7 @@ Interactive text-to-speech CLI backed by [MOSS-TTS-Nano](https://github.com/Open
 ### 1. Clone this repo and the reference runtime
 
 ```bash
-git clone <this-repo> MossEnv
+git clone https://github.com/vinayakrastogi/moss-tts-edge-deployement.git MossEnv
 cd MossEnv
 
 # Clone the upstream runtime source (used directly, not pip-installed)
