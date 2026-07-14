@@ -1,0 +1,31 @@
+# Agent tracking — internal only
+agent.md
+
+# Model weights (large binary files, download separately)
+models/
+
+# Reference runtime (clone separately: github.com/OpenMOSS/MOSS-TTS-Nano)
+ref-repo/
+
+# Virtual environment
+moss-env/
+
+# Generated audio output
+generated_audio/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
