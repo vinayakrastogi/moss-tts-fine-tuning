@@ -1,0 +1,14 @@
+{
+  "original_model": {
+    "sha256": "24003f2f11ac8a2cbf70514db2d8f1c02fb451aa6b3c0bffc9da09f31cd7caa5",
+    "bytes": 234693095
+  },
+  "adapted_model": {
+    "sha256": "d648bde5fcf2f3b1a8572a572cb9ee63989700b0edcea4be973cbcaf30e4196c",
+    "bytes": 569969387
+  },
+  "audio_tokenizer": {
+    "sha256": "34d9880d805eecb21bde975202b1c256dbd0eb98c8680b9d3aeffd2bc6ac2f67",
+    "bytes": 87922568
+  }
+}

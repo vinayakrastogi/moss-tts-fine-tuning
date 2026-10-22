@@ -1,0 +1,7 @@
+# Full student distillation validation — 22 October 2026
+
+`training_metrics.json` is the saved output of `distill_student.py`: 144 training recordings, 19 held-out validation recordings, three epochs, 432 updates, seed 42, and a six-layer student distilled from the twelve-layer MOSS-TTS-Nano teacher. Feature similarity uses the global hidden states of matched teacher/student input sequences. The validation recordings are held-out utterances from the same source speaker and lecture collection; they are not new speakers or payment recordings.
+
+`checkpoint_size.json` compares only the bfloat16 weight files, with runtime/codec dependencies excluded. The teacher and student both use bfloat16 in this comparison. The student weights and generated WAVs are local, Git-ignored files and are not bundled with the repository. `weight_hashes.json` identifies the measured checkpoints.
+
+`student_measurements.csv` and `generation_summary.json` record a separate 24-prompt MPS generation run with the trained float32 student. Its mean RTF was 0.862, but mean wall-clock inference time and maximum sampled process RSS were worse than those of the original teacher's run. All 24 WAVs were nonempty. This does not establish speech intelligibility, naturalness, latency improvement, or runtime memory reduction. The bfloat16 export passed a one-prompt audio smoke check but was not used for the 24-prompt student run.

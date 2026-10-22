@@ -1,0 +1,22 @@
+{
+  "max_length": 512,
+  "per_device_batch_size": 1,
+  "gradient_accumulation_steps": 1,
+  "learning_rate": 1e-06,
+  "weight_decay": 0.1,
+  "adam_beta1": 0.9,
+  "adam_beta2": 0.95,
+  "adam_eps": 1e-08,
+  "warmup_ratio": 0.03,
+  "lr_scheduler_type": "linear",
+  "num_epochs": 1,
+  "max_grad_norm": 1.0,
+  "mixed_precision": "no",
+  "attn_implementation": "eager",
+  "channelwise_loss_weight": "1,32",
+  "seed": 42,
+  "saved_global_step": 144,
+  "saved_epoch": 1,
+  "source_dataset": "auraCodes/indian-english-hindi-tts-60min (en-IN train split)",
+  "teacher_or_starting_checkpoint": "original MOSS-TTS-Nano"
+}

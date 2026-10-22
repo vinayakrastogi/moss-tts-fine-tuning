@@ -1,0 +1,25 @@
+sample_id,amount_inr,prompt_text,spoken_text,audio_path,duration_seconds,sample_rate,inference_seconds,rtf,rss_after_inference_mb,peak_process_rss_mb,status
+utt_0010,69524,"Your payment of INR 69,524 was successful.",Your payment of sixty nine thousand five hundred twenty four rupees was successful.,adapted/utt_0010.wav,7.840,48000,6.333483,0.807842,709.062,709.062,generated
+utt_0011,4208603,"Refund initiated for INR 42,08,603.",Refund initiated for forty two lakh eight thousand six hundred three rupees.,adapted/utt_0011.wav,4.400,48000,5.589337,1.270304,730.984,731.016,generated
+utt_0017,950439931,"Refund initiated for INR 95,04,39,931.",Refund initiated for ninety five crore four lakh thirty nine thousand nine hundred thirty one rupees.,adapted/utt_0017.wav,6.640,48000,5.230673,0.787752,752.547,752.578,generated
+utt_0027,97090,"INR 97,090 has been credited to your account.",ninety seven thousand ninety rupees has been credited to your account.,adapted/utt_0027.wav,3.840,48000,3.179622,0.828027,779.047,779.078,generated
+utt_0044,28231,"You have received INR 28,231.",You have received twenty eight thousand two hundred thirty one rupees.,adapted/utt_0044.wav,3.680,48000,3.037598,0.825434,798.203,798.203,generated
+utt_0050,5705,"You have received INR 5,705.",You have received five thousand seven hundred five rupees.,adapted/utt_0050.wav,3.440,48000,2.930599,0.851918,826.719,826.719,generated
+utt_0057,37940,"INR 37,940 has been credited to your account.",thirty seven thousand nine hundred forty rupees has been credited to your account.,adapted/utt_0057.wav,4.960,48000,4.098601,0.826331,845.906,845.906,generated
+utt_0077,2021859,"Refund initiated for INR 20,21,859.",Refund initiated for twenty lakh twenty one thousand eight hundred fifty nine rupees.,adapted/utt_0077.wav,5.680,48000,5.184252,0.912720,869.203,869.203,generated
+utt_0079,4065789,"Payment received: INR 40,65,789.","Payment received, forty lakh sixty five thousand seven hundred eighty nine rupees.",adapted/utt_0079.wav,5.600,48000,4.559289,0.814159,890.516,890.547,generated
+utt_0084,50442,"Your account balance is INR 50,442.",Your account balance is fifty thousand four hundred forty two rupees.,adapted/utt_0084.wav,4.960,48000,4.007673,0.807999,892.969,892.984,generated
+utt_0089,1001,"Refund initiated for INR 1,001.",Refund initiated for one thousand one rupees.,adapted/utt_0089.wav,3.600,48000,2.947329,0.818702,912.953,912.984,generated
+utt_0104,861,You have received INR 861.,You have received eight hundred sixty one rupees.,adapted/utt_0104.wav,4.560,48000,3.930496,0.861951,933.984,934.000,generated
+utt_0115,999999,"Payment received: INR 9,99,999.","Payment received, nine lakh ninety nine thousand nine hundred ninety nine rupees.",adapted/utt_0115.wav,4.480,48000,3.616288,0.807207,954.156,954.156,generated
+utt_0121,72142,"Payment received: INR 72,142.","Payment received, seventy two thousand one hundred forty two rupees.",adapted/utt_0121.wav,4.080,48000,5.476977,1.342396,975.312,975.344,generated
+utt_0125,24941,"Refund initiated for INR 24,941.",Refund initiated for twenty four thousand nine hundred forty one rupees.,adapted/utt_0125.wav,4.800,48000,5.895296,1.228187,994.500,994.500,generated
+utt_0126,38437,"Your account balance is INR 38,437.",Your account balance is thirty eight thousand four hundred thirty seven rupees.,adapted/utt_0126.wav,7.680,48000,6.154294,0.801340,1001.922,1001.938,generated
+utt_0137,371415646,"Refund initiated for INR 37,14,15,646.",Refund initiated for thirty seven crore fourteen lakh fifteen thousand six hundred forty six rupees.,adapted/utt_0137.wav,5.680,48000,4.560692,0.802939,1004.328,1004.344,generated
+utt_0154,0,Your payment of INR 0 was successful.,Your payment of zero rupees was successful.,adapted/utt_0154.wav,6.480,48000,5.923920,0.914185,1027.297,1027.328,generated
+utt_0160,14672,"Your payment of INR 14,672 was successful.",Your payment of fourteen thousand six hundred seventy two rupees was successful.,adapted/utt_0160.wav,4.400,48000,5.851400,1.329864,1027.328,1027.344,generated
+utt_0162,36519,"Your account balance is INR 36,519.",Your account balance is thirty six thousand five hundred nineteen rupees.,adapted/utt_0162.wav,3.760,48000,6.037703,1.605772,1048.078,1048.109,generated
+utt_0166,20979,"Your payment of INR 20,979 was successful.",Your payment of twenty thousand nine hundred seventy nine rupees was successful.,adapted/utt_0166.wav,4.800,48000,6.645283,1.384434,1048.188,1048.188,generated
+utt_0167,8498441,"Refund initiated for INR 84,98,441.",Refund initiated for eighty four lakh ninety eight thousand four hundred forty one rupees.,adapted/utt_0167.wav,5.200,48000,5.438478,1.045861,497.453,1050.609,generated
+utt_0169,97657,"Payment received: INR 97,657.","Payment received, ninety seven thousand six hundred fifty seven rupees.",adapted/utt_0169.wav,6.080,48000,5.741251,0.944285,536.672,536.672,generated
+utt_0171,1317071,"INR 13,17,071 has been credited to your account.",thirteen lakh seventeen thousand seventy one rupees has been credited to your account.,adapted/utt_0171.wav,5.920,48000,4.730089,0.799001,561.969,561.969,generated

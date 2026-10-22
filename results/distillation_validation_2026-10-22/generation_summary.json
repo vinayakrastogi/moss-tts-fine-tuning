@@ -1,0 +1,9 @@
+{
+  "inference_seconds": 7.318022666666667,
+  "duration_seconds": 8.413333333333334,
+  "rtf": 0.861707375,
+  "n": 24,
+  "rtf_below_one_count": 19,
+  "max_process_rss_mb": 1278.875,
+  "scope": "descriptive local Apple Silicon MPS run, one warm-up, 24 fixed payment prompts; no audio-quality claim"
+}

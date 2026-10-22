@@ -1,31 +1,13 @@
-# Agent tracking — internal only
-agent.md
-
-# Model weights (large binary files, download separately)
+# Downloaded model checkpoints, datasets, caches, and generated audio stay local.
 models/
-
-# Reference runtime (clone separately: github.com/OpenMOSS/MOSS-TTS-Nano)
-ref-repo/
-
-# Virtual environment
-moss-env/
-
-# Generated audio output
-generated_audio/
-
-# Python
+training/indian_payment_tts/external/aura_indian_english/audio/
+training/indian_payment_tts/external/aura_indian_english/*.parquet
+training/indian_payment_tts/external/aura_indian_english/*.jsonl
+training/indian_payment_tts/output/
+training/indian_payment_tts/evaluation/generated/
+runs/
+results/local_smoke/
 __pycache__/
 *.py[cod]
-*.pyo
-*.egg-info/
-.eggs/
-dist/
-build/
-
-# macOS
 .DS_Store
-
-# Editor
-.vscode/
-.idea/
-*.swp
+.venv/

@@ -1,0 +1,7 @@
+{
+  "student_wav_count": 24,
+  "all_nonempty": true,
+  "min_rms": 0.0382896975738944,
+  "median_rms": 0.056107023063101225,
+  "student_bf16_smoke_wav_seconds": 3.52
+}

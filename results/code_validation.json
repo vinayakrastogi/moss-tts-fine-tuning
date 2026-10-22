@@ -1,0 +1,26 @@
+{
+  "original": {
+    "wav_count": 24,
+    "min_rms": 0.03946555081178832,
+    "median_rms": 0.08592216716252878,
+    "max_rms": 0.12614044416971884
+  },
+  "adapted": {
+    "wav_count": 24,
+    "min_rms": 0.05564895819859686,
+    "median_rms": 0.07790782830963588,
+    "max_rms": 0.10566527816168962
+  },
+  "sft_smoke": {
+    "steps": 1,
+    "result": "checkpoint saved"
+  },
+  "distillation_smoke": {
+    "steps": 1,
+    "teacher_parameters": 117311232,
+    "student_parameters": 74784000,
+    "validation_cosine_before": 0.21259456872940063,
+    "validation_cosine_after": 0.30082347989082336,
+    "student_wav_duration_seconds": 6.4
+  }
+}

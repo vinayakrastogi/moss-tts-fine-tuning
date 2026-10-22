@@ -1,0 +1,181 @@
+id,split,amount_inr,text,record_exactly,audio
+utt_0001,train,17371,"Payment received: INR 17,371.","Payment received, seventeen thousand three hundred seventy one rupees.",audio/utt_0001.wav
+utt_0002,validation,56995,"You have received INR 56,995.",You have received fifty six thousand nine hundred ninety five rupees.,audio/utt_0002.wav
+utt_0003,train,123456789,"INR 12,34,56,789 has been credited to your account.",twelve crore thirty four lakh fifty six thousand seven hundred eighty nine rupees has been credited to your account.,audio/utt_0003.wav
+utt_0004,train,928390409,"Your payment of INR 92,83,90,409 was successful.",Your payment of ninety two crore eighty three lakh ninety thousand four hundred nine rupees was successful.,audio/utt_0004.wav
+utt_0005,train,1,Refund initiated for INR 1.,Refund initiated for one rupees.,audio/utt_0005.wav
+utt_0006,train,6167228,"Your account balance is INR 61,67,228.",Your account balance is sixty one lakh sixty seven thousand two hundred twenty eight rupees.,audio/utt_0006.wav
+utt_0007,validation,1297935,"Payment received: INR 12,97,935.","Payment received, twelve lakh ninety seven thousand nine hundred thirty five rupees.",audio/utt_0007.wav
+utt_0008,train,26072,"You have received INR 26,072.",You have received twenty six thousand seventy two rupees.,audio/utt_0008.wav
+utt_0009,train,5808456,"INR 58,08,456 has been credited to your account.",fifty eight lakh eight thousand four hundred fifty six rupees has been credited to your account.,audio/utt_0009.wav
+utt_0010,test,69524,"Your payment of INR 69,524 was successful.",Your payment of sixty nine thousand five hundred twenty four rupees was successful.,audio/utt_0010.wav
+utt_0011,test,4208603,"Refund initiated for INR 42,08,603.",Refund initiated for forty two lakh eight thousand six hundred three rupees.,audio/utt_0011.wav
+utt_0012,train,2862152,"Your account balance is INR 28,62,152.",Your account balance is twenty eight lakh sixty two thousand one hundred fifty two rupees.,audio/utt_0012.wav
+utt_0013,train,12234,"Payment received: INR 12,234.","Payment received, twelve thousand two hundred thirty four rupees.",audio/utt_0013.wav
+utt_0014,train,5107072,"You have received INR 51,07,072.",You have received fifty one lakh seven thousand seventy two rupees.,audio/utt_0014.wav
+utt_0015,validation,7675,"INR 7,675 has been credited to your account.",seven thousand six hundred seventy five rupees has been credited to your account.,audio/utt_0015.wav
+utt_0016,train,30017,"Your payment of INR 30,017 was successful.",Your payment of thirty thousand seventeen rupees was successful.,audio/utt_0016.wav
+utt_0017,test,950439931,"Refund initiated for INR 95,04,39,931.",Refund initiated for ninety five crore four lakh thirty nine thousand nine hundred thirty one rupees.,audio/utt_0017.wav
+utt_0018,train,84617,"Your account balance is INR 84,617.",Your account balance is eighty four thousand six hundred seventeen rupees.,audio/utt_0018.wav
+utt_0019,train,51886,"Payment received: INR 51,886.","Payment received, fifty one thousand eight hundred eighty six rupees.",audio/utt_0019.wav
+utt_0020,train,1254126,"You have received INR 12,54,126.",You have received twelve lakh fifty four thousand one hundred twenty six rupees.,audio/utt_0020.wav
+utt_0021,train,589064766,"INR 58,90,64,766 has been credited to your account.",fifty eight crore ninety lakh sixty four thousand seven hundred sixty six rupees has been credited to your account.,audio/utt_0021.wav
+utt_0022,train,34448,"Your payment of INR 34,448 was successful.",Your payment of thirty four thousand four hundred forty eight rupees was successful.,audio/utt_0022.wav
+utt_0023,train,66572,"Refund initiated for INR 66,572.",Refund initiated for sixty six thousand five hundred seventy two rupees.,audio/utt_0023.wav
+utt_0024,validation,435,Your account balance is INR 435.,Your account balance is four hundred thirty five rupees.,audio/utt_0024.wav
+utt_0025,train,59648,"Payment received: INR 59,648.","Payment received, fifty nine thousand six hundred forty eight rupees.",audio/utt_0025.wav
+utt_0026,train,6929332,"You have received INR 69,29,332.",You have received sixty nine lakh twenty nine thousand three hundred thirty two rupees.,audio/utt_0026.wav
+utt_0027,test,97090,"INR 97,090 has been credited to your account.",ninety seven thousand ninety rupees has been credited to your account.,audio/utt_0027.wav
+utt_0028,train,72522,"Your payment of INR 72,522 was successful.",Your payment of seventy two thousand five hundred twenty two rupees was successful.,audio/utt_0028.wav
+utt_0029,train,27663,"Refund initiated for INR 27,663.",Refund initiated for twenty seven thousand six hundred sixty three rupees.,audio/utt_0029.wav
+utt_0030,validation,3526900,"Your account balance is INR 35,26,900.",Your account balance is thirty five lakh twenty six thousand nine hundred rupees.,audio/utt_0030.wav
+utt_0031,train,907677788,"Payment received: INR 90,76,77,788.","Payment received, ninety crore seventy six lakh seventy seven thousand seven hundred eighty eight rupees.",audio/utt_0031.wav
+utt_0032,train,5807197,"You have received INR 58,07,197.",You have received fifty eight lakh seven thousand one hundred ninety seven rupees.,audio/utt_0032.wav
+utt_0033,train,41477,"INR 41,477 has been credited to your account.",forty one thousand four hundred seventy seven rupees has been credited to your account.,audio/utt_0033.wav
+utt_0034,train,22441,"Your payment of INR 22,441 was successful.",Your payment of twenty two thousand four hundred forty one rupees was successful.,audio/utt_0034.wav
+utt_0035,validation,9890,"Refund initiated for INR 9,890.",Refund initiated for nine thousand eight hundred ninety rupees.,audio/utt_0035.wav
+utt_0036,train,85727,"Your account balance is INR 85,727.",Your account balance is eighty five thousand seven hundred twenty seven rupees.,audio/utt_0036.wav
+utt_0037,validation,24900,"Payment received: INR 24,900.","Payment received, twenty four thousand nine hundred rupees.",audio/utt_0037.wav
+utt_0038,train,9324173,"You have received INR 93,24,173.",You have received ninety three lakh twenty four thousand one hundred seventy three rupees.,audio/utt_0038.wav
+utt_0039,train,117354053,"INR 11,73,54,053 has been credited to your account.",eleven crore seventy three lakh fifty four thousand fifty three rupees has been credited to your account.,audio/utt_0039.wav
+utt_0040,train,61358,"Your payment of INR 61,358 was successful.",Your payment of sixty one thousand three hundred fifty eight rupees was successful.,audio/utt_0040.wav
+utt_0041,train,81426,"Refund initiated for INR 81,426.",Refund initiated for eighty one thousand four hundred twenty six rupees.,audio/utt_0041.wav
+utt_0042,train,101,Your account balance is INR 101.,Your account balance is one hundred one rupees.,audio/utt_0042.wav
+utt_0043,train,71076,"Payment received: INR 71,076.","Payment received, seventy one thousand seventy six rupees.",audio/utt_0043.wav
+utt_0044,test,28231,"You have received INR 28,231.",You have received twenty eight thousand two hundred thirty one rupees.,audio/utt_0044.wav
+utt_0045,train,72613,"INR 72,613 has been credited to your account.",seventy two thousand six hundred thirteen rupees has been credited to your account.,audio/utt_0045.wav
+utt_0046,train,44323,"Your payment of INR 44,323 was successful.",Your payment of forty four thousand three hundred twenty three rupees was successful.,audio/utt_0046.wav
+utt_0047,train,9108867,"Refund initiated for INR 91,08,867.",Refund initiated for ninety one lakh eight thousand eight hundred sixty seven rupees.,audio/utt_0047.wav
+utt_0048,train,4046066,"Your account balance is INR 40,46,066.",Your account balance is forty lakh forty six thousand sixty six rupees.,audio/utt_0048.wav
+utt_0049,train,9096414,"Payment received: INR 90,96,414.","Payment received, ninety lakh ninety six thousand four hundred fourteen rupees.",audio/utt_0049.wav
+utt_0050,test,5705,"You have received INR 5,705.",You have received five thousand seven hundred five rupees.,audio/utt_0050.wav
+utt_0051,validation,69625,"INR 69,625 has been credited to your account.",sixty nine thousand six hundred twenty five rupees has been credited to your account.,audio/utt_0051.wav
+utt_0052,train,31581,"Your payment of INR 31,581 was successful.",Your payment of thirty one thousand five hundred eighty one rupees was successful.,audio/utt_0052.wav
+utt_0053,validation,1000,"Refund initiated for INR 1,000.",Refund initiated for one thousand rupees.,audio/utt_0053.wav
+utt_0054,train,100001,"Your account balance is INR 1,00,001.",Your account balance is one lakh one rupees.,audio/utt_0054.wav
+utt_0055,train,9999,"Payment received: INR 9,999.","Payment received, nine thousand nine hundred ninety nine rupees.",audio/utt_0055.wav
+utt_0056,validation,4175,"You have received INR 4,175.",You have received four thousand one hundred seventy five rupees.,audio/utt_0056.wav
+utt_0057,test,37940,"INR 37,940 has been credited to your account.",thirty seven thousand nine hundred forty rupees has been credited to your account.,audio/utt_0057.wav
+utt_0058,train,92359,"Your payment of INR 92,359 was successful.",Your payment of ninety two thousand three hundred fifty nine rupees was successful.,audio/utt_0058.wav
+utt_0059,train,27948,"Refund initiated for INR 27,948.",Refund initiated for twenty seven thousand nine hundred forty eight rupees.,audio/utt_0059.wav
+utt_0060,validation,36510,"Your account balance is INR 36,510.",Your account balance is thirty six thousand five hundred ten rupees.,audio/utt_0060.wav
+utt_0061,train,19,Payment received: INR 19.,"Payment received, nineteen rupees.",audio/utt_0061.wav
+utt_0062,train,3694297,"You have received INR 36,94,297.",You have received thirty six lakh ninety four thousand two hundred ninety seven rupees.,audio/utt_0062.wav
+utt_0063,train,61223,"INR 61,223 has been credited to your account.",sixty one thousand two hundred twenty three rupees has been credited to your account.,audio/utt_0063.wav
+utt_0064,train,5379418,"Your payment of INR 53,79,418 was successful.",Your payment of fifty three lakh seventy nine thousand four hundred eighteen rupees was successful.,audio/utt_0064.wav
+utt_0065,train,8617169,"Refund initiated for INR 86,17,169.",Refund initiated for eighty six lakh seventeen thousand one hundred sixty nine rupees.,audio/utt_0065.wav
+utt_0066,train,47829,"Your account balance is INR 47,829.",Your account balance is forty seven thousand eight hundred twenty nine rupees.,audio/utt_0066.wav
+utt_0067,validation,96540,"Payment received: INR 96,540.","Payment received, ninety six thousand five hundred forty rupees.",audio/utt_0067.wav
+utt_0068,train,9037326,"You have received INR 90,37,326.",You have received ninety lakh thirty seven thousand three hundred twenty six rupees.,audio/utt_0068.wav
+utt_0069,train,49807,"INR 49,807 has been credited to your account.",forty nine thousand eight hundred seven rupees has been credited to your account.,audio/utt_0069.wav
+utt_0070,train,99999,"Your payment of INR 99,999 was successful.",Your payment of ninety nine thousand nine hundred ninety nine rupees was successful.,audio/utt_0070.wav
+utt_0071,train,76579,"Refund initiated for INR 76,579.",Refund initiated for seventy six thousand five hundred seventy nine rupees.,audio/utt_0071.wav
+utt_0072,train,3784531,"Your account balance is INR 37,84,531.",Your account balance is thirty seven lakh eighty four thousand five hundred thirty one rupees.,audio/utt_0072.wav
+utt_0073,train,78917,"Payment received: INR 78,917.","Payment received, seventy eight thousand nine hundred seventeen rupees.",audio/utt_0073.wav
+utt_0074,train,46576,"You have received INR 46,576.",You have received forty six thousand five hundred seventy six rupees.,audio/utt_0074.wav
+utt_0075,train,6044126,"INR 60,44,126 has been credited to your account.",sixty lakh forty four thousand one hundred twenty six rupees has been credited to your account.,audio/utt_0075.wav
+utt_0076,validation,52575,"Your payment of INR 52,575 was successful.",Your payment of fifty two thousand five hundred seventy five rupees was successful.,audio/utt_0076.wav
+utt_0077,test,2021859,"Refund initiated for INR 20,21,859.",Refund initiated for twenty lakh twenty one thousand eight hundred fifty nine rupees.,audio/utt_0077.wav
+utt_0078,train,9615702,"Your account balance is INR 96,15,702.",Your account balance is ninety six lakh fifteen thousand seven hundred two rupees.,audio/utt_0078.wav
+utt_0079,test,4065789,"Payment received: INR 40,65,789.","Payment received, forty lakh sixty five thousand seven hundred eighty nine rupees.",audio/utt_0079.wav
+utt_0080,validation,49625,"You have received INR 49,625.",You have received forty nine thousand six hundred twenty five rupees.,audio/utt_0080.wav
+utt_0081,validation,20,INR 20 has been credited to your account.,twenty rupees has been credited to your account.,audio/utt_0081.wav
+utt_0082,train,35003,"Your payment of INR 35,003 was successful.",Your payment of thirty five thousand three rupees was successful.,audio/utt_0082.wav
+utt_0083,train,20042,"Refund initiated for INR 20,042.",Refund initiated for twenty thousand forty two rupees.,audio/utt_0083.wav
+utt_0084,test,50442,"Your account balance is INR 50,442.",Your account balance is fifty thousand four hundred forty two rupees.,audio/utt_0084.wav
+utt_0085,train,77934,"Payment received: INR 77,934.","Payment received, seventy seven thousand nine hundred thirty four rupees.",audio/utt_0085.wav
+utt_0086,train,41451,"You have received INR 41,451.",You have received forty one thousand four hundred fifty one rupees.,audio/utt_0086.wav
+utt_0087,train,5538436,"INR 55,38,436 has been credited to your account.",fifty five lakh thirty eight thousand four hundred thirty six rupees has been credited to your account.,audio/utt_0087.wav
+utt_0088,train,21184,"Your payment of INR 21,184 was successful.",Your payment of twenty one thousand one hundred eighty four rupees was successful.,audio/utt_0088.wav
+utt_0089,test,1001,"Refund initiated for INR 1,001.",Refund initiated for one thousand one rupees.,audio/utt_0089.wav
+utt_0090,validation,5259230,"Your account balance is INR 52,59,230.",Your account balance is fifty two lakh fifty nine thousand two hundred thirty rupees.,audio/utt_0090.wav
+utt_0091,train,95458,"Payment received: INR 95,458.","Payment received, ninety five thousand four hundred fifty eight rupees.",audio/utt_0091.wav
+utt_0092,train,84269,"You have received INR 84,269.",You have received eighty four thousand two hundred sixty nine rupees.,audio/utt_0092.wav
+utt_0093,validation,31860,"INR 31,860 has been credited to your account.",thirty one thousand eight hundred sixty rupees has been credited to your account.,audio/utt_0093.wav
+utt_0094,validation,10000,"Your payment of INR 10,000 was successful.",Your payment of ten thousand rupees was successful.,audio/utt_0094.wav
+utt_0095,train,3474754,"Refund initiated for INR 34,74,754.",Refund initiated for thirty four lakh seventy four thousand seven hundred fifty four rupees.,audio/utt_0095.wav
+utt_0096,train,1421324,"Your account balance is INR 14,21,324.",Your account balance is fourteen lakh twenty one thousand three hundred twenty four rupees.,audio/utt_0096.wav
+utt_0097,validation,5371130,"Payment received: INR 53,71,130.","Payment received, fifty three lakh seventy one thousand one hundred thirty rupees.",audio/utt_0097.wav
+utt_0098,train,34728,"You have received INR 34,728.",You have received thirty four thousand seven hundred twenty eight rupees.,audio/utt_0098.wav
+utt_0099,train,87548,"INR 87,548 has been credited to your account.",eighty seven thousand five hundred forty eight rupees has been credited to your account.,audio/utt_0099.wav
+utt_0100,train,9680513,"Your payment of INR 96,80,513 was successful.",Your payment of ninety six lakh eighty thousand five hundred thirteen rupees was successful.,audio/utt_0100.wav
+utt_0101,train,51183,"Refund initiated for INR 51,183.",Refund initiated for fifty one thousand one hundred eighty three rupees.,audio/utt_0101.wav
+utt_0102,train,41114,"Your account balance is INR 41,114.",Your account balance is forty one thousand one hundred fourteen rupees.,audio/utt_0102.wav
+utt_0103,validation,65445,"Payment received: INR 65,445.","Payment received, sixty five thousand four hundred forty five rupees.",audio/utt_0103.wav
+utt_0104,test,861,You have received INR 861.,You have received eight hundred sixty one rupees.,audio/utt_0104.wav
+utt_0105,validation,10000000,"INR 1,00,00,000 has been credited to your account.",one crore rupees has been credited to your account.,audio/utt_0105.wav
+utt_0106,train,86683,"Your payment of INR 86,683 was successful.",Your payment of eighty six thousand six hundred eighty three rupees was successful.,audio/utt_0106.wav
+utt_0107,train,69173,"Refund initiated for INR 69,173.",Refund initiated for sixty nine thousand one hundred seventy three rupees.,audio/utt_0107.wav
+utt_0108,train,63709,"Your account balance is INR 63,709.",Your account balance is sixty three thousand seven hundred nine rupees.,audio/utt_0108.wav
+utt_0109,train,76513,"Payment received: INR 76,513.","Payment received, seventy six thousand five hundred thirteen rupees.",audio/utt_0109.wav
+utt_0110,train,92788,"You have received INR 92,788.",You have received ninety two thousand seven hundred eighty eight rupees.,audio/utt_0110.wav
+utt_0111,validation,10,INR 10 has been credited to your account.,ten rupees has been credited to your account.,audio/utt_0111.wav
+utt_0112,validation,11925,"Your payment of INR 11,925 was successful.",Your payment of eleven thousand nine hundred twenty five rupees was successful.,audio/utt_0112.wav
+utt_0113,train,57443,"Refund initiated for INR 57,443.",Refund initiated for fifty seven thousand four hundred forty three rupees.,audio/utt_0113.wav
+utt_0114,validation,1000000,"Your account balance is INR 10,00,000.",Your account balance is ten lakh rupees.,audio/utt_0114.wav
+utt_0115,test,999999,"Payment received: INR 9,99,999.","Payment received, nine lakh ninety nine thousand nine hundred ninety nine rupees.",audio/utt_0115.wav
+utt_0116,validation,100,You have received INR 100.,You have received one hundred rupees.,audio/utt_0116.wav
+utt_0117,train,18141,"INR 18,141 has been credited to your account.",eighteen thousand one hundred forty one rupees has been credited to your account.,audio/utt_0117.wav
+utt_0118,train,1939607,"Your payment of INR 19,39,607 was successful.",Your payment of nineteen lakh thirty nine thousand six hundred seven rupees was successful.,audio/utt_0118.wav
+utt_0119,train,6793979,"Refund initiated for INR 67,93,979.",Refund initiated for sixty seven lakh ninety three thousand nine hundred seventy nine rupees.,audio/utt_0119.wav
+utt_0120,train,2778638,"Your account balance is INR 27,78,638.",Your account balance is twenty seven lakh seventy eight thousand six hundred thirty eight rupees.,audio/utt_0120.wav
+utt_0121,test,72142,"Payment received: INR 72,142.","Payment received, seventy two thousand one hundred forty two rupees.",audio/utt_0121.wav
+utt_0122,train,13248,"You have received INR 13,248.",You have received thirteen thousand two hundred forty eight rupees.,audio/utt_0122.wav
+utt_0123,train,94821,"INR 94,821 has been credited to your account.",ninety four thousand eight hundred twenty one rupees has been credited to your account.,audio/utt_0123.wav
+utt_0124,train,24366,"Your payment of INR 24,366 was successful.",Your payment of twenty four thousand three hundred sixty six rupees was successful.,audio/utt_0124.wav
+utt_0125,test,24941,"Refund initiated for INR 24,941.",Refund initiated for twenty four thousand nine hundred forty one rupees.,audio/utt_0125.wav
+utt_0126,test,38437,"Your account balance is INR 38,437.",Your account balance is thirty eight thousand four hundred thirty seven rupees.,audio/utt_0126.wav
+utt_0127,train,2254051,"Payment received: INR 22,54,051.","Payment received, twenty two lakh fifty four thousand fifty one rupees.",audio/utt_0127.wav
+utt_0128,validation,6299635,"You have received INR 62,99,635.",You have received sixty two lakh ninety nine thousand six hundred thirty five rupees.,audio/utt_0128.wav
+utt_0129,train,7182668,"INR 71,82,668 has been credited to your account.",seventy one lakh eighty two thousand six hundred sixty eight rupees has been credited to your account.,audio/utt_0129.wav
+utt_0130,train,18383,"Your payment of INR 18,383 was successful.",Your payment of eighteen thousand three hundred eighty three rupees was successful.,audio/utt_0130.wav
+utt_0131,validation,10755,"Refund initiated for INR 10,755.",Refund initiated for ten thousand seven hundred fifty five rupees.,audio/utt_0131.wav
+utt_0132,train,8917,"Your account balance is INR 8,917.",Your account balance is eight thousand nine hundred seventeen rupees.,audio/utt_0132.wav
+utt_0133,train,58888,"Payment received: INR 58,888.","Payment received, fifty eight thousand eight hundred eighty eight rupees.",audio/utt_0133.wav
+utt_0134,train,6800828,"You have received INR 68,00,828.",You have received sixty eight lakh eight hundred twenty eight rupees.,audio/utt_0134.wav
+utt_0135,train,45092,"INR 45,092 has been credited to your account.",forty five thousand ninety two rupees has been credited to your account.,audio/utt_0135.wav
+utt_0136,train,707801251,"Your payment of INR 70,78,01,251 was successful.",Your payment of seventy crore seventy eight lakh one thousand two hundred fifty one rupees was successful.,audio/utt_0136.wav
+utt_0137,test,371415646,"Refund initiated for INR 37,14,15,646.",Refund initiated for thirty seven crore fourteen lakh fifteen thousand six hundred forty six rupees.,audio/utt_0137.wav
+utt_0138,train,1008841,"Your account balance is INR 10,08,841.",Your account balance is ten lakh eight thousand eight hundred forty one rupees.,audio/utt_0138.wav
+utt_0139,validation,8617485,"Payment received: INR 86,17,485.","Payment received, eighty six lakh seventeen thousand four hundred eighty five rupees.",audio/utt_0139.wav
+utt_0140,train,4127,"You have received INR 4,127.",You have received four thousand one hundred twenty seven rupees.,audio/utt_0140.wav
+utt_0141,validation,851128035,"INR 85,11,28,035 has been credited to your account.",eighty five crore eleven lakh twenty eight thousand thirty five rupees has been credited to your account.,audio/utt_0141.wav
+utt_0142,train,28874,"Your payment of INR 28,874 was successful.",Your payment of twenty eight thousand eight hundred seventy four rupees was successful.,audio/utt_0142.wav
+utt_0143,train,99,Refund initiated for INR 99.,Refund initiated for ninety nine rupees.,audio/utt_0143.wav
+utt_0144,train,1751177,"Your account balance is INR 17,51,177.",Your account balance is seventeen lakh fifty one thousand one hundred seventy seven rupees.,audio/utt_0144.wav
+utt_0145,train,9,Payment received: INR 9.,"Payment received, nine rupees.",audio/utt_0145.wav
+utt_0146,train,292619,"You have received INR 2,92,619.",You have received two lakh ninety two thousand six hundred nineteen rupees.,audio/utt_0146.wav
+utt_0147,train,1288789,"INR 12,88,789 has been credited to your account.",twelve lakh eighty eight thousand seven hundred eighty nine rupees has been credited to your account.,audio/utt_0147.wav
+utt_0148,train,999,Your payment of INR 999 was successful.,Your payment of nine hundred ninety nine rupees was successful.,audio/utt_0148.wav
+utt_0149,train,9999999,"Refund initiated for INR 99,99,999.",Refund initiated for ninety nine lakh ninety nine thousand nine hundred ninety nine rupees.,audio/utt_0149.wav
+utt_0150,train,3288,"Your account balance is INR 3,288.",Your account balance is three thousand two hundred eighty eight rupees.,audio/utt_0150.wav
+utt_0151,train,83896,"Payment received: INR 83,896.","Payment received, eighty three thousand eight hundred ninety six rupees.",audio/utt_0151.wav
+utt_0152,train,63663,"You have received INR 63,663.",You have received sixty three thousand six hundred sixty three rupees.,audio/utt_0152.wav
+utt_0153,train,85487,"INR 85,487 has been credited to your account.",eighty five thousand four hundred eighty seven rupees has been credited to your account.,audio/utt_0153.wav
+utt_0154,test,0,Your payment of INR 0 was successful.,Your payment of zero rupees was successful.,audio/utt_0154.wav
+utt_0155,train,59439,"Refund initiated for INR 59,439.",Refund initiated for fifty nine thousand four hundred thirty nine rupees.,audio/utt_0155.wav
+utt_0156,train,7199076,"Your account balance is INR 71,99,076.",Your account balance is seventy one lakh ninety nine thousand seventy six rupees.,audio/utt_0156.wav
+utt_0157,validation,49745,"Payment received: INR 49,745.","Payment received, forty nine thousand seven hundred forty five rupees.",audio/utt_0157.wav
+utt_0158,validation,5175395,"You have received INR 51,75,395.",You have received fifty one lakh seventy five thousand three hundred ninety five rupees.,audio/utt_0158.wav
+utt_0159,train,1558591,"INR 15,58,591 has been credited to your account.",fifteen lakh fifty eight thousand five hundred ninety one rupees has been credited to your account.,audio/utt_0159.wav
+utt_0160,test,14672,"Your payment of INR 14,672 was successful.",Your payment of fourteen thousand six hundred seventy two rupees was successful.,audio/utt_0160.wav
+utt_0161,validation,100000,"Refund initiated for INR 1,00,000.",Refund initiated for one lakh rupees.,audio/utt_0161.wav
+utt_0162,test,36519,"Your account balance is INR 36,519.",Your account balance is thirty six thousand five hundred nineteen rupees.,audio/utt_0162.wav
+utt_0163,validation,9242600,"Payment received: INR 92,42,600.","Payment received, ninety two lakh forty two thousand six hundred rupees.",audio/utt_0163.wav
+utt_0164,train,74678,"You have received INR 74,678.",You have received seventy four thousand six hundred seventy eight rupees.,audio/utt_0164.wav
+utt_0165,train,67849,"INR 67,849 has been credited to your account.",sixty seven thousand eight hundred forty nine rupees has been credited to your account.,audio/utt_0165.wav
+utt_0166,test,20979,"Your payment of INR 20,979 was successful.",Your payment of twenty thousand nine hundred seventy nine rupees was successful.,audio/utt_0166.wav
+utt_0167,test,8498441,"Refund initiated for INR 84,98,441.",Refund initiated for eighty four lakh ninety eight thousand four hundred forty one rupees.,audio/utt_0167.wav
+utt_0168,train,28667,"Your account balance is INR 28,667.",Your account balance is twenty eight thousand six hundred sixty seven rupees.,audio/utt_0168.wav
+utt_0169,test,97657,"Payment received: INR 97,657.","Payment received, ninety seven thousand six hundred fifty seven rupees.",audio/utt_0169.wav
+utt_0170,train,32097,"You have received INR 32,097.",You have received thirty two thousand ninety seven rupees.,audio/utt_0170.wav
+utt_0171,test,1317071,"INR 13,17,071 has been credited to your account.",thirteen lakh seventeen thousand seventy one rupees has been credited to your account.,audio/utt_0171.wav
+utt_0172,train,14332,"Your payment of INR 14,332 was successful.",Your payment of fourteen thousand three hundred thirty two rupees was successful.,audio/utt_0172.wav
+utt_0173,train,4217,"Refund initiated for INR 4,217.",Refund initiated for four thousand two hundred seventeen rupees.,audio/utt_0173.wav
+utt_0174,train,1038483,"Your account balance is INR 10,38,483.",Your account balance is ten lakh thirty eight thousand four hundred eighty three rupees.,audio/utt_0174.wav
+utt_0175,train,6830428,"Payment received: INR 68,30,428.","Payment received, sixty eight lakh thirty thousand four hundred twenty eight rupees.",audio/utt_0175.wav
+utt_0176,train,91313,"You have received INR 91,313.",You have received ninety one thousand three hundred thirteen rupees.,audio/utt_0176.wav
+utt_0177,train,7287926,"INR 72,87,926 has been credited to your account.",seventy two lakh eighty seven thousand nine hundred twenty six rupees has been credited to your account.,audio/utt_0177.wav
+utt_0178,train,94173,"Your payment of INR 94,173 was successful.",Your payment of ninety four thousand one hundred seventy three rupees was successful.,audio/utt_0178.wav
+utt_0179,train,12714,"Refund initiated for INR 12,714.",Refund initiated for twelve thousand seven hundred fourteen rupees.,audio/utt_0179.wav
+utt_0180,train,32503,"Your account balance is INR 32,503.",Your account balance is thirty two thousand five hundred three rupees.,audio/utt_0180.wav

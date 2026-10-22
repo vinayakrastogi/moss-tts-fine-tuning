@@ -1,0 +1,16 @@
+{
+  "model": "adapted",
+  "checkpoint": "3-epoch Indian-English adapted checkpoint",
+  "audio_tokenizer": "OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano",
+  "device": "mps",
+  "python": "3.14.7",
+  "torch": "2.13.0",
+  "machine": "arm64",
+  "platform": "macOS-27.0.1-arm64-arm-64bit-Mach-O",
+  "seed": 42,
+  "max_new_frames": 160,
+  "warmups": 1,
+  "rss_after_model_load_mb": 340.4375,
+  "manifest": "training/indian_payment_tts/manifest.csv",
+  "test_prompts": 24
+}

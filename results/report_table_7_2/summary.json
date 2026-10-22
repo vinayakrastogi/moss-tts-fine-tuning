@@ -1,0 +1,32 @@
+{
+  "n_runs_per_model": 18,
+  "prompts_per_round": 9,
+  "rounds": 2,
+  "original": {
+    "n": 18,
+    "time": 3.753706958390669,
+    "sd": 0.7423258666719537,
+    "rtf": 0.788330779198384,
+    "rtfSd": 0.0469583050636117,
+    "loaded": 714.4765625,
+    "mpsAllocated": 531.324462890625,
+    "peak": 1227.65625
+  },
+  "adapted": {
+    "n": 18,
+    "time": 4.069410060163743,
+    "sd": 1.220927752877042,
+    "rtf": 0.7928202445818957,
+    "rtfSd": 0.06855279208149959,
+    "loaded": 340.796875,
+    "mpsAllocated": 531.324462890625,
+    "peak": 898.203125
+  },
+  "change_in_mean_inference_time_percent": 8.410435478118039,
+  "change_in_mean_rtf_percent": 0.5694900544257253,
+  "change_in_peak_rss_percent": -26.835942471681307,
+  "device": "Apple Silicon MPS",
+  "seeded": true,
+  "warmups_per_model": 1,
+  "max_new_frames": 160
+}

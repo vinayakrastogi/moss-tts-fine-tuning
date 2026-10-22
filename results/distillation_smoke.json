@@ -1,0 +1,23 @@
+{
+  "type": "experimental feature distillation",
+  "teacher_layers": 12,
+  "student_layers": 6,
+  "teacher_parameters": 117311232,
+  "student_parameters": 74784000,
+  "parameter_reduction_percent": 36.25162848856621,
+  "training_steps": 1,
+  "training_records": 1,
+  "validation_records": 1,
+  "validation_before": {
+    "n": 1,
+    "feature_loss": 1.7441654205322266,
+    "cosine": 0.21259456872940063
+  },
+  "validation_after": {
+    "n": 1,
+    "feature_loss": 1.5988891124725342,
+    "cosine": 0.30082347989082336
+  },
+  "seed": 42,
+  "claim_limit": "Feature matching is not a perceptual speech-quality or device-memory benchmark."
+}

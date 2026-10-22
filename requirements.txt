@@ -1,0 +1,11 @@
+# Versions below were used for the local validation on macOS/Apple Silicon.
+accelerate==1.15.0
+huggingface-hub==0.36.2
+numpy==2.5.1
+onnxruntime==1.27.0
+psutil==7.2.2
+pyarrow==26.0.0
+sentencepiece==0.2.2
+soundfile==0.14.0
+transformers==4.57.1
+# Install a platform-compatible matching PyTorch/TorchAudio pair separately.

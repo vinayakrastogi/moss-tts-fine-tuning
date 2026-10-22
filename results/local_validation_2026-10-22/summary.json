@@ -1,0 +1,80 @@
+{
+  "metric_definitions": {
+    "inference_seconds": "wall-clock seconds for model.inference after one warm-up",
+    "rtf": "inference seconds divided by generated audio duration; <1 is faster than playback",
+    "maximum_observed_process_rss_mb": "maximum sampled resident memory of the Python process during measured generations; includes runtime/codec overhead"
+  },
+  "sample_ids": [
+    "utt_0010",
+    "utt_0011",
+    "utt_0017",
+    "utt_0027",
+    "utt_0044",
+    "utt_0050",
+    "utt_0057",
+    "utt_0077",
+    "utt_0079",
+    "utt_0084",
+    "utt_0089",
+    "utt_0104",
+    "utt_0115",
+    "utt_0121",
+    "utt_0125",
+    "utt_0126",
+    "utt_0137",
+    "utt_0154",
+    "utt_0160",
+    "utt_0162",
+    "utt_0166",
+    "utt_0167",
+    "utt_0169",
+    "utt_0171"
+  ],
+  "original": {
+    "n": 24,
+    "inference_seconds": {
+      "mean": 4.238622333333334,
+      "sd": 1.0236619523193773,
+      "min": 2.531892,
+      "max": 7.241334
+    },
+    "audio_duration_seconds": {
+      "mean": 4.8533333333333335,
+      "sd": 1.0856000811679614,
+      "min": 2.96,
+      "max": 7.12
+    },
+    "rtf": {
+      "mean": 0.8763330833333334,
+      "sd": 0.09937348366331966,
+      "min": 0.791484,
+      "max": 1.093927
+    },
+    "all_rtf_below_one": false,
+    "maximum_observed_process_rss_mb": 930.516
+  },
+  "adapted": {
+    "n": 24,
+    "inference_seconds": {
+      "mean": 4.879192625,
+      "sd": 1.1666438473799,
+      "min": 2.930599,
+      "max": 6.645283
+    },
+    "audio_duration_seconds": {
+      "mean": 5.1066666666666665,
+      "sd": 1.2216406169988985,
+      "min": 3.44,
+      "max": 7.84
+    },
+    "rtf": {
+      "mean": 0.9757754166666667,
+      "sd": 0.24185343803003767,
+      "min": 0.787752,
+      "max": 1.605772
+    },
+    "all_rtf_below_one": false,
+    "maximum_observed_process_rss_mb": 1050.609
+  },
+  "adapted_inference_time_change_percent": 15.112700337302986
+}

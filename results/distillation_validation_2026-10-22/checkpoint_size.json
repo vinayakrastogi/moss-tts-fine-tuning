@@ -1,0 +1,8 @@
+{
+  "teacher_dtype": "bfloat16",
+  "student_dtype": "bfloat16",
+  "teacher_weight_bytes": 234693095,
+  "student_weight_bytes": 149603143,
+  "weight_file_reduction_percent": 36.25583956784072,
+  "scope": "checkpoint weight files only; runtime, codec, and tokenizer assets excluded"
+}

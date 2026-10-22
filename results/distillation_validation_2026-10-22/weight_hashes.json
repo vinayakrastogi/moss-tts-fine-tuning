@@ -1,0 +1,14 @@
+{
+  "teacher": {
+    "sha256": "24003f2f11ac8a2cbf70514db2d8f1c02fb451aa6b3c0bffc9da09f31cd7caa5",
+    "bytes": 234693095
+  },
+  "student_fp32": {
+    "sha256": "3b00ceb94c48fb446b0f27513581f4f740cb0d00145b262dc7c548f58e493007",
+    "bytes": 299171143
+  },
+  "student_bf16": {
+    "sha256": "0d50ac762175f6f2b06711fe0c8512684343c75ee6d8f41f4a40df2b2f48e1fc",
+    "bytes": 149603143
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "dataset": "auraCodes/indian-english-hindi-tts-60min",
+  "source_card": "https://huggingface.co/datasets/auraCodes/indian-english-hindi-tts-60min",
+  "license_claimed_by_dataset_card": "CC-BY-4.0",
+  "citation_and_provenance": "See README_upstream.md; English clips are from one NPTEL psychrometry lecturer and include per-clip Creative Commons Attribution provenance.",
+  "counts": {
+    "test": 62,
+    "train": 144,
+    "validation": 19
+  },
+  "duration_hours": 0.628,
+  "speaker_count": 1,
+  "split_policy": "Psychrometry Part 5 held out for test; 10% of Parts 1 and 2 held out for validation.",
+  "warning": "General educational speech, not payment-domain speech; verify transcript/audio alignment and license provenance before publication or redistribution."
+}
